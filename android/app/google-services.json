@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065982322195",
+    "firebase_url": "https://luuser-2.firebaseio.com",
+    "project_id": "luuser-2",
+    "storage_bucket": "luuser-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065982322195:android:7de62bcfe7422d70",
+        "android_client_info": {
+          "package_name": "ch.devtadel.luuser_fltr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065982322195-n65807is1ggd1v6aht59ur32njhdidkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwKPq9Gm25eZF3o8o54SNy6fkNavWikPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065982322195-n65807is1ggd1v6aht59ur32njhdidkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
